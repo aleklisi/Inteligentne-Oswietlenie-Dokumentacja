@@ -1,7 +1,11 @@
 Wstępna analiza wymagań
 
 1. oszacować techniczne wymagania (środowisko działania, system operacyjny, wymagania sieciowe)
-Główna sterownia zarządza całym oświetleniem, wymaga połączenia 
+
+Główna sterownia zarządza całym oświetleniem, wymaga połączenia ze stacją meteorologiczną, która na bierząco monitoruje warunki pogodowe oraz z systemem lokalizacji użytkowników. System lokalizacji użytkowników bazuje na lokalizacji GPS poszczególnych użytkowników przez nawigację ich urządzeń mobilnych.
+
 2. określić aplikacje, systemy z którymi musimy zintegrować system
+System musi być zintegrowany ze stacją meteorologiczną, z zegarem, system lokalizacji (który musi byc zintegrowany z urządzeniami mobilnymi użytkowników).
 3. wymagania funkcjonalne (spis oczekiwań klienta)
+
 4. (przykładowe) scenariusze użycia

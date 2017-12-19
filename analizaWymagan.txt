@@ -1,0 +1,7 @@
+Wstępna analiza wymagań
+
+1. oszacować techniczne wymagania (środowisko działania, system operacyjny, wymagania sieciowe)
+Główna sterownia zarządza całym oświetleniem, wymaga połączenia 
+2. określić aplikacje, systemy z którymi musimy zintegrować system
+3. wymagania funkcjonalne (spis oczekiwań klienta)
+4. (przykładowe) scenariusze użycia

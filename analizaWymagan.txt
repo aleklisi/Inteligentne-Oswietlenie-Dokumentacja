@@ -13,3 +13,12 @@ System musi być zintegrowany ze stacją meteorologiczną, z zegarem, system lok
 3. Nie wymaga ode mnie ciągłego logowania się czy wprowadzania nowych danych (sam ściąga moją lokalizację).
 
 4. (przykładowe) scenariusze użycia
+
+basic flow
+
+1. Użytkownik wchodzi w zasięg latarni.
+2. System lokalizacji wysyła informację do Głównej Sterowni o potencjalnej potrzebie oświetlenia użytkownika o niskiej prędkości poruszania się (pieszy).
+3. Stacja meteorologiczna wysyła informacje, że warunki pogodowe są dobre.
+4. Zegar wysyła informację że jest godzina 20:00 i 19.12.2017 co oznacza, że wymagane jest oświetlenie.
+5. Główna sterownia wysyła polecenie do lamp na obszarze 100 m wokół lokalizacji pieszego o to żeby się zapaliły.
+6. Wróć do 1.

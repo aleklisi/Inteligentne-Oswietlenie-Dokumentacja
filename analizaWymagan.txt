@@ -8,4 +8,8 @@ Główna sterownia zarządza całym oświetleniem, wymaga połączenia ze stacj�
 System musi być zintegrowany ze stacją meteorologiczną, z zegarem, system lokalizacji (który musi byc zintegrowany z urządzeniami mobilnymi użytkowników).
 3. wymagania funkcjonalne (spis oczekiwań klienta)
 
+1. System ma zapewniać odpowiednie oświetlenie (w zależności z jaką prędkością się poruszam ma wygenorować odpowiedni promieć oświetlenia).
+2. Ma być uwrażliwiony na warunki pogodowe, kiedy pogoda jest zła oświetlenia musi być więcej.
+3. Nie wymaga ode mnie ciągłego logowania się czy wprowadzania nowych danych (sam ściąga moją lokalizację).
+
 4. (przykładowe) scenariusze użycia
